@@ -1,0 +1,485 @@
+{
+  "doughnut": {
+    "totalUsers": 18,
+    "deltaUsers": 1,
+    "totalDisciplines": 10,
+    "numberOfUsersPerDiscipline": [
+      {
+        "id": 231,
+        "name": "Development",
+        "value": 20
+      },
+      {
+        "id": 232,
+        "name": "Testing",
+        "value": 18
+      },
+      {
+        "id": 234,
+        "name": "FrontEnd",
+        "value": 16
+      },
+      {
+        "id": 233,
+        "name": "DevOps",
+        "value": 14
+      },
+      {
+        "id": 235,
+        "name": "Project management",
+        "value": 12
+      },
+      {
+        "id": 238,
+        "name": "Data",
+        "value": 10
+      },
+      {
+        "id": 237,
+        "name": "Creative sevices",
+        "value": 8
+      },
+      {
+        "id": 239,
+        "name": "Business analysis",
+        "value": 6
+      },
+      {
+        "id": 240,
+        "name": "Architecture",
+        "value": 0
+      },
+      {
+        "id": 236,
+        "name": "Applications management",
+        "value": 0
+      }
+    ]
+  },
+  "costs-overview": {
+    "costsReport": [
+      {
+        "year": 2022,
+        "month": 6,
+        "cost": 600
+      },
+      {
+        "year": 2022,
+        "month": 7,
+        "cost": 1000
+      },
+      {
+        "year": 2022,
+        "month": 8,
+        "cost": 1400
+      },
+      {
+        "year": 2022,
+        "month": 9,
+        "cost": 1800
+      },
+      {
+        "year": 2022,
+        "month": 10,
+        "cost": 2200
+      },
+      {
+        "year": 2022,
+        "month": 11,
+        "cost": 2600
+      },
+      {
+        "year": 2022,
+        "month": 12,
+        "cost": 3000
+      },
+      {
+        "year": 2023,
+        "month": 1,
+        "cost": 3400
+      },
+      {
+        "year": 2023,
+        "month": 2,
+        "cost": 3800
+      },
+      {
+        "year": 2023,
+        "month": 3,
+        "cost": 4200
+      },
+      {
+        "year": 2023,
+        "month": 4,
+        "cost": 4400
+      },
+      {
+        "year": 2023,
+        "month": 5,
+        "cost": 4800
+      }
+    ],
+    "costsForCurrentYear": 19900,
+    "deltaCosts": 1200,
+    "numberOfSoftware": 18,
+    "deltaSoftware": -2,
+    "numberOfTrainings": 12,
+    "deltaTrainings": 6
+  },
+  "avg": {
+    "averageCostPerUser": 1122,
+    "averageCostPerDepartmentsMap": [
+      {
+        "id": 231,
+        "name": "Development",
+        "value": 3271
+      },
+      {
+        "id": 233,
+        "name": "DevOps",
+        "value": 2500
+      },
+      {
+        "id": 234,
+        "name": "FrontEnd",
+        "value": 2000
+      },
+      {
+        "id": 235,
+        "name": "Project management",
+        "value": 0
+      },
+      {
+        "id": 239,
+        "name": "Business analysis",
+        "value": 0
+      },
+      {
+        "id": 237,
+        "name": "Creative sevices",
+        "value": 0
+      },
+      {
+        "id": 232,
+        "name": "Testing",
+        "value": 0
+      },
+      {
+        "id": 240,
+        "name": "Architecture",
+        "value": 0
+      },
+      {
+        "id": 236,
+        "name": "Applications management",
+        "value": 0
+      },
+      {
+        "id": 238,
+        "name": "Data",
+        "value": 0
+      }
+    ]
+  },
+  "licensesExpiring": [
+    {
+      "id": 1,
+      "name": "React",
+      "cost": "499.00",
+      "licenseDuration": 10,
+      "durationUnit": "MONTH",
+      "expiresOn": "2023-12-13"
+    },
+    {
+      "id": 4,
+      "name": "Backend",
+      "cost": "499.00",
+      "licenseDuration": 1,
+      "durationUnit": "YEAR",
+      "expiresOn": "2023-12-13"
+    },
+    {
+      "id": 5,
+      "name": "QA",
+      "cost": "499.00",
+      "licenseDuration": 1,
+      "durationUnit": "YEAR",
+      "expiresOn": "2023-08-13"
+    },
+    {
+      "id": 6,
+      "name": "AM",
+      "cost": "499.00",
+      "licenseDuration": 1,
+      "durationUnit": "YEAR",
+      "expiresOn": "2023-08-13"
+    },
+    {
+      "id": 7,
+      "name": "Embedded",
+      "cost": "499.00",
+      "licenseDuration": 1,
+      "durationUnit": "YEAR",
+      "expiresOn": "2023-08-13"
+    }
+  ],
+  "licensesUnused": [
+    {
+      "id": 8,
+      "name": "test_license1",
+      "cost": "1500.00",
+      "period": 5,
+      "durationUnit": "MONTH"
+    },
+    {
+      "id": 9,
+      "name": "test_license2",
+      "cost": "1200.00",
+      "period": 16,
+      "durationUnit": "MONTH"
+    }
+  ],
+  "licenses": [
+    {
+      "id": 2,
+      "name": "O'Reilly",
+      "website": "www.oreilly.com",
+      "licenseType": "TRAINING",
+      "description": " O'Reilly Media is an American learning company established by Tim O'Reilly that publishes books, produces tech conferences, and provides. More",
+      "logo": "https://cdn.worldvectorlogo.com/logos/oreilly-2.svg",
+      "cost": 750,
+      "currency": "USD",
+      "licenseDuration": 12,
+      "expiresOn": "25-09-2023",
+      "isRecurring": false,
+      "seatsTotal": 150,
+      "seatsAvailable": 144,
+      "credentials": [
+        {
+          "username": "user2@endava.com",
+          "password": "pass2"
+        }
+      ],
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "name": "Adobe",
+      "website": "www.adobe.com",
+      "licenseType": "TRAINING",
+      "description": "Adobe, Inc. is a global destination for teaching and learning online.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Adobe_Systems_logo_and_wordmark.svg/1477px-Adobe_Systems_logo_and_wordmark.svg.png",
+      "cost": 750,
+      "currency": "USD",
+      "licenseDuration": 12,
+      "expiresOn": "12-02-2024",
+      "isRecurring": false,
+      "seatsTotal": 150,
+      "seatsAvailable": 144,
+      "credentials": [
+        {
+          "username": "user3@endava.com",
+          "password": "pass3"
+        }
+      ],
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "name": "Coursera",
+      "website": "www.coursera.com",
+      "licenseType": "TRAINING",
+      "description": "Coursera, Inc. is a global destination for teaching and learning online.",
+      "logo": "https://www.langoly.com/wp-content/uploads/2021/09/coursera-logo.png",
+      "cost": 750,
+      "currency": "USD",
+      "licenseDuration": 12,
+      "expiresOn": "25-12-2022",
+      "isRecurring": false,
+      "seatsTotal": 150,
+      "seatsAvailable": 144,
+      "credentials": [
+        {
+          "username": "user4@endava.com",
+          "password": "pass4"
+        }
+      ],
+      "isActive": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Snow",
+      "companyRole": "Developer",
+      "discipline": "development",
+      "deliveryUnit": "MDD",
+      "lastActiveTime": 59,
+      "lastActivePeriod": "days",
+      "status": "INACTIVE",
+      "role": "User",
+      "email": "@john"
+    },
+    {
+      "id": 2,
+      "name": "Victor Pencala",
+      "companyRole": "Developer",
+      "discipline": "development",
+      "deliveryUnit": "MDD",
+      "lastActiveTime": 59,
+      "lastActivePeriod": "days",
+      "status": "DEACTIVATED",
+      "role": "Admin"
+    },
+    {
+      "id": 3,
+      "name": "Cezar Drumea",
+      "companyRole": "Developer",
+      "discipline": "development",
+      "deliveryUnit": "MDD",
+      "lastActiveTime": 59,
+      "lastActivePeriod": "days",
+      "status": "ACTIVE",
+      "role": "Reviewer"
+    },
+    {
+      "id": 4,
+      "name": "Alex Schin",
+      "companyRole": "Developer",
+      "discipline": "development",
+      "deliveryUnit": "MDD",
+      "lastActiveTime": 59,
+      "lastActivePeriod": "days",
+      "status": "DEACTIVATED",
+      "role": "Admin",
+      "email": "@Victor"
+    },
+    {
+      "id": 3,
+      "name": "Cezar Drumea",
+      "companyRole": "Developer",
+      "discipline": "development",
+      "deliveryUnit": "MDD",
+      "lastActiveTime": 59,
+      "lastActivePeriod": "days",
+      "status": "ACTIVE",
+      "role": "Reviewer",
+      "email": "@Cezar"
+    },
+    {
+      "id": 4,
+      "name": "Alex Schin",
+      "companyRole": "Developer",
+      "discipline": "development",
+      "deliveryUnit": "MDD",
+      "lastActiveTime": 59,
+      "lastActivePeriod": "days",
+      "status": "ACTIVE",
+      "role": "Admin",
+      "email": "@Alex"
+    },
+    {
+      "id": 5,
+      "name": "Cristian Jigau",
+      "companyRole": "Developer",
+      "discipline": "development",
+      "deliveryUnit": "MDD",
+      "lastActiveTime": 59,
+      "lastActivePeriod": "days",
+      "status": "ACTIVE",
+      "role": "User",
+      "email": "@Cristian"
+    },
+    {
+      "id": 6,
+      "name": "Siddhartha Gautama",
+      "companyRole": "Buddha",
+      "discipline": "Buddhism",
+      "deliveryUnit": "MDD",
+      "lastActiveTime": 2500,
+      "lastActivePeriod": "years",
+      "status": "ACTIVE",
+      "role": "Admin",
+      "email": "@Siddhartha"
+    },
+    {
+      "id": 7,
+      "name": "Mock Name",
+      "companyRole": "Tester",
+      "discipline": "testing",
+      "deliveryUnit": "MDD",
+      "lastActiveTime": 59,
+      "lastActivePeriod": "days",
+      "status": "DEACTIVATED",
+      "role": "Admin",
+      "email": "@Mock"
+    },
+    {
+      "id": 8,
+      "name": "Baki Hanma",
+      "companyRole": "Fighter",
+      "discipline": "fight",
+      "deliveryUnit": "MDD",
+      "lastActiveTime": 32,
+      "lastActivePeriod": "days",
+      "status": "ACTIVE",
+      "role": "Reviewer",
+      "email": "@Baki"
+    },
+    {
+      "id": 9,
+      "name": "Mihail Bulgacov",
+      "companyRole": "Writer",
+      "discipline": "literature",
+      "deliveryUnit": "MDD",
+      "lastActiveTime": 59,
+      "lastActivePeriod": "days",
+      "status": "ACTIVE",
+      "role": "Admin",
+      "email": "@Mihaul"
+    },
+    {
+      "id": 10,
+      "name": "Master Yoda",
+      "companyRole": "Master Jedi",
+      "discipline": "jedi",
+      "deliveryUnit": "MDD",
+      "lastActiveTime": 59,
+      "lastActivePeriod": "days",
+      "status": "ACTIVE",
+      "role": "User",
+      "email": "@Yoda"
+    }
+  ],
+  "usersRoles": {
+    "usersIdList": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "roles": [
+    {
+      "id": 2,
+      "name": "Reviewer",
+      "description": "Reviewer approves or rejects requests for access to learning resources."
+    },
+    {
+      "id": 3,
+      "name": "User",
+      "description": "User can request access to learning resources."
+    }
+  ],
+  "deactivate": {
+    "usersIdList": [
+      9
+    ]
+  }
+}

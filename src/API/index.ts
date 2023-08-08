@@ -1,0 +1,11 @@
+export const baseUrl: string = import.meta.env.VITE_API_URL
+export const doughnutUrl = baseUrl + 'dashboard/user'
+export const costsOverviewUrl = baseUrl + 'dashboard/costs/licenseCost'
+export const avgCostsUrl = baseUrl + 'dashboard/user/average'
+export const licensesExpiringUrl = baseUrl + 'dashboard/licenses/expiring'
+export const licensesUnusedUrl = baseUrl + 'dashboard/licenses/unused'
+export const licensesUrl = baseUrl + 'licenses'
+export const usersUrl = baseUrl + 'users'
+export const changeUsersRoleUrl = baseUrl + 'users/roles'
+export const deactivateUsersUrl = baseUrl + 'users'
+export const rolesUrl = baseUrl + 'roles'

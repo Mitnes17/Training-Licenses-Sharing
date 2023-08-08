@@ -1,0 +1,8 @@
+{
+  "/dashboard/user": "/doughnut",
+  "/dashboard/user/average": "/avg",
+  "/dashboard/costs/licenseCost": "/costs-overview",
+  "/dashboard/licenses/expiring": "/licensesExpiring",
+  "/dashboard/licenses/unused": "/licensesUnused",
+  "/users/roles": "/usersRoles"
+}
